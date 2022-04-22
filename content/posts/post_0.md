@@ -1,6 +1,6 @@
 ---
 title: "La Cultura de un(a) Desarrollador(a) de Software"
-date: 2022-02-21T18:16:21-06:00
+date: 2022-04-22
 description: '¿Qué se debe tomar en cuenta para la cultura de un profesional de software?'
 ---
 
