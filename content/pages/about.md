@@ -1,21 +1,16 @@
 ---
-title: 'About me'
+title: 'Acerca de mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Acerca de mí"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Me llamo **Marco Antonio Bautista Jiménez**, soy originario de Nicolás Romero, Estado de México.
+> Egresado del CECyT 9 "Juan de Dios Bátiz" como Técnico en Programación
+> Actualmente soy estudiante de sexto semestre dentro de UPIICSA en el Instituto Politécnico Nacional.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Mis mayores **pasiones en el mundo** son el fútbol ⚽, los celulares 📱 y mi pequeño Michi "Morris" 😺🐈
