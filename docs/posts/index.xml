@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://markbaubau.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mis expectativas de la misión Node JS en LaunchX</title>
+      <link>https://markbaubau.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Thu, 21 Apr 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://markbaubau.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Para el momento en el que subo este post ya van tres semanas de la misión backend con Node JS, pero me atrasé con todos los entregables, desde el onBoarding y el blog, aún así no quisé pasar por alto el realizar todas las actividades para entender que se hará más adelante.
+Volviendo al tema central de este post, las expectativas que tenía de este curso son las siguientes:
+  Espero aprender a utilizar Git y Github, porque en muchas ocasiones los desarrolladores hablan de estas tecnologías y yo no sé de que me hablan.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un(a) Desarrollador(a) de Software</title>
       <link>https://markbaubau.github.io/my_launchx_blog/posts/post_0/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
@@ -16,17 +27,6 @@
       <description>¡Hola de nuevo!
 En este post les hablaré acerca de lo que para mi significa una buena cultura de un desarrollador de software. En primer lugar un desarrollador de software debe contar con los siguientes valores:
  Respeto Disciplina Honestidad Responsabilidad Confianza Dedicación  Es importante que los profesionales del software estén conscientes de que las herramientas que desarrollan son muy poderosas, pues le permiten a las personas y organizaciones resolver sus problemas y gestionar de mejor manera sus recursos, no es simplemente hacer cosas por hacer, hay que analizar que el desarrollo erróneo de un sistema puede implicar la pérdida de dinero, recursos y en algunos casos de vidas humanas.</description>
-    </item>
-    
-    <item>
-      <title>Mis expectativas de la misión Node JS en LaunchX</title>
-      <link>https://markbaubau.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://markbaubau.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Para el momento en el que subo este post ya van tres semanas de la misión backend con Node JS, pero me atrasé con todos los entregables, desde el onBoarding y el blog, aún así no quisé pasar por alto el realizar todas las actividades para entender que se hará más adelante.
-Volviendo al tema central de este post, las expectativas que tenía de este curso son las siguientes:
-  Espero aprender a utilizar Git y Github, porque en muchas ocasiones los desarrolladores hablan de estas tecnologías y yo no sé de que me hablan.</description>
     </item>
     
   </channel>
